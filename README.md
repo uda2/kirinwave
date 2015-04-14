@@ -2,7 +2,7 @@ KirinWave
 =========
 
 画像をスライスして揺らす jQuery プラグインです。  
-[サンプル](http://uda2.com/kirin/ "サンプル")
+[サンプル](http://uda2.com/github/kirin.html "サンプル")
 
 使い方
 ---------------------------------
